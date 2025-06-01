@@ -1,5 +1,4 @@
-# sql--fraud-detection
-Fraud detection on credit card transactions using SQL. Real-world use cases implemented with rule-based logic.
+
 # SQL-Based Credit Card Fraud Detection
 
 This project detects suspicious patterns in real-world credit card transaction data using pure SQL logic. No Python, no ML — just scalable queries that simulate how analysts at banks and fintechs find fraud.
